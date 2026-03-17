@@ -18,4 +18,4 @@ function somarNumero(){
     alert("Soma dos números é:" + soma)
 }
 
-somarNumero()
+//somarNumero()
