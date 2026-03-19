@@ -1,0 +1,4 @@
+function parImpar(){
+
+}
+parImpar();
