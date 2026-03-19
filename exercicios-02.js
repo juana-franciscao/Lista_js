@@ -5,5 +5,3 @@ function nasa_contagem() {
     }
 console.log("Lançamento realizado!");
 }
-
-nasa_contagem()

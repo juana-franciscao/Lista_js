@@ -1,4 +1,4 @@
-function financeiro() {
+function balancoAnual() {
     let ganhoAnual = 0
     let gastoAnual = 0
 
@@ -22,4 +22,3 @@ function financeiro() {
         alert("Prejuízo :(")
     }
 }
-financeiro();
